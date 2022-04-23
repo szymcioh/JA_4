@@ -1,7 +1,7 @@
-﻿<Application x:Class="WpfFrontside.App"
+﻿<Application x:Class="WpfAppForJA.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WpfFrontside"
+             xmlns:local="clr-namespace:WpfAppForJA"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

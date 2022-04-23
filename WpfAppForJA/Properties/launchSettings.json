@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WpfAppForJA": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
