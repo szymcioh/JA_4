@@ -1,1 +1,5 @@
 LIBRARY DllAsm
+EXPORTS Dodaj
+EXPORTS Odejmij
+EXPORTS Pomnoz
+EXPORTS Podziel

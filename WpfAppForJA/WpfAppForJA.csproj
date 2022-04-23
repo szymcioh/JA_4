@@ -7,6 +7,7 @@
     <UseWPF>true</UseWPF>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <Platforms>AnyCPU;x64</Platforms>
+    <BaseOutputPath>C:\Users\Szymon-laptop\OneDrive\70_POL-SL\04_SEM\test\JA_4\output</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
